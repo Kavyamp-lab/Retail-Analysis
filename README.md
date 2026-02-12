@@ -17,8 +17,10 @@ region.
     
 * Data Collection:Take it from Kaggle search for " Retail sales".
 * After That do data cleaning in SQL workbench ( duplicates, extra space, null values..).
+* After that Calculate Recency using latest invoice date,Frequency using distinct invoice count, Monetary value using total revenue,Create RFM base table at customer      level,Generate monthly sales and product performance data.
+* Than export outcomes of all these queries to csv file than add it in python code snippet.
 * For mathematical analysis mentioned above do that in python (vs code or in jupyter).
-* Than run the python file( i have uploaded file below dashboard).
+* Than run the python file( i have uploaded file below dashboard and remember to replace youre file in file path).
 * Than you will get required files to create final analysis dashboard.
   
 
